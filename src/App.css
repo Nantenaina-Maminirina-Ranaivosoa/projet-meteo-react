@@ -49,3 +49,26 @@ button{
   cursor: pointer;
   font-weight: bold;
 }
+
+.weather-display{
+  margin-top: 30px;
+}
+.weather-display h2{
+  font-size: 2.5em;
+  margin: 0;
+}
+.weather-display img{
+  vertical-align : middle
+}
+.weather-display .temp{
+  font-size: 3em;
+  font-weight: bold;
+  margin: 10px 0;
+
+}
+
+.error{
+  color: #e74c3c;
+  font-weight: bold;
+  margin-top: 20px;
+}
